@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm DBIkeda
 
 I'm a front-end developer passionate about building clean, interactive user interfaces with **Vue 3**. Currently working on projects with a solid **component-based architecture** using `components/`, `composables/`, `pages/`, and `layouts/`.
 
